@@ -10,6 +10,6 @@
 
 ## Descripción del Proyecto y Modificaciones
 El proyecto se diseñó inicialmente como una aplicación CLI simple para enviar correos. Posteriormente, se realizaron las siguientes modificaciones:
-- Implementación de un optionMenu() usadno  `Tkinter`.
+- Implementación de un Option Menu usando  `Tkinter`.
 - Cambie el logo que tenía por defecto, agregue uno personalizado.
 - Al emviar el mensaje de "enviado exitosamente!" para confirmar solo el éxito del correo enviado.
