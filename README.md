@@ -13,3 +13,6 @@ El proyecto se diseñó inicialmente como una aplicación CLI simple para enviar
 - Implementación de un Option Menu usando  `Tkinter`.
 - Cambie el logo que tenía por defecto, agregue uno personalizado.
 - Al emviar el mensaje de "enviado exitosamente!" para confirmar solo el éxito del correo enviado.
+
+## GUI terminada
+[![aprovar.jpg](TP2---programaci-n/ENVIAR_EMAIL/aprovar.jpg "aprovar.jpg")](http://github.com/Daanielfl/TP2---programaci-n.git "aprovar.jpg")
