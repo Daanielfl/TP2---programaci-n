@@ -1,3 +1,6 @@
 # Enviar E-mail
 
-Un **trabajo que consitio en forkear un repositorio**, en el que habían muchos proyectos. Debiamos elegir uno
+>Este proyecto implementa un sistema para enviar correos electrónicos utilizando Python,
+>con una interfaz gráfica para facilitar la entrada de datos y la visualización de resultados.
+
+
