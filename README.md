@@ -17,3 +17,6 @@ El proyecto se diseñó inicialmente como una aplicación CLI simple para enviar
 ### GUI terminada
 ![](/ENVIAR_EMAIL/GUI-Personalisada.JPG)
 
+## Cambios realizados
+
+>
