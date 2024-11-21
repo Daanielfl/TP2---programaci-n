@@ -15,5 +15,5 @@ El proyecto se diseñó inicialmente como una aplicación CLI simple para enviar
 - Al emviar el mensaje de "enviado exitosamente!" para confirmar solo el éxito del correo enviado.
 
 ## GUI terminada
-[![aprovar.jpg](TP2---programaci-n/ENVIAR_EMAIL/aprovar.jpg "aprovar.jpg")](https://github.com/Daanielfl/TP2---programaci-n.git)
+[![aprovar.jpg](TP2---programaci-n/ENVIAR_EMAIL/aprovar.jpg)
 
