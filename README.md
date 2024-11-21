@@ -15,5 +15,5 @@ El proyecto se diseñó inicialmente como una aplicación CLI simple para enviar
 - Al emviar el mensaje de "enviado exitosamente!" para confirmar solo el éxito del correo enviado.
 
 ## GUI terminada
-[![](/ENVIAR_EMAIL/GUI-with-email.jpeg)
+[![](/ENVIAR_EMAIL/GUI-personalizada.jpeg)
 
