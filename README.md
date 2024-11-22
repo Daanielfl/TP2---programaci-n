@@ -17,6 +17,5 @@ El proyecto se diseñó inicialmente como una aplicación CLI simple para enviar
 ### GUI terminada
 ![](/ENVIAR_EMAIL/GUI-Personalisada.JPG)
 
-## Cambios realizados
-
->
+> Agregue un combo box para que se vea mas prolijo, no guarda emails que vaya agregando el usuario, solo muestra las que estan guargadas por defecto
+> lo que hice fue crear solo una lista en donde guarde correos como String y despues en el combo box muestro la lista completa
